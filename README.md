@@ -22,4 +22,4 @@ This is a Twitter clone web application developed using **Next**, **TailwindCSS*
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/twitter-clone.git
+   git clone https://github.com/chiragbadhe/twitter-clone.git
